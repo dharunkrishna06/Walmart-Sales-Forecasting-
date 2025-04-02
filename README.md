@@ -1,6 +1,6 @@
 # RetailPulse: Walmart Sales Forecasting & ROI Insights
 
-![Project Overview](/Users/dharun/Desktop/Walmart-Sales-Forecasting/Others/Walmart.jpg)
+![Project Overview](https://github.com/dharunkrishna06/Walmart-Sales-Forecasting-/blob/main/Others/Walmart.jpg)
 
 This project presents a sales forecasting system for Walmart using machine learning techniques tailored for retail demand prediction. The primary goal is to build regression models that accurately forecast weekly sales using historical data, promotional effects, and economic indicators such as CPI and unemployment. The project walks through the entire ML pipeline — from data cleaning and exploration to modeling and evaluation — ensuring actionable insights and forecast accuracy for business decision-making.
 
